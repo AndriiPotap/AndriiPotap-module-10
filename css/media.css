@@ -1,0 +1,30 @@
+@media (min-resolution: 192dpi), (min-resolutio:2dppx) {
+    .header {
+        background-image: url('../img/promo-image@2x.jpg');
+    }
+
+    .services__icon_alarm::before {
+        background-image: url(../img/service-icon/icon-alarm@2x.png);
+
+    }
+    
+    .services__icon_graph::before {
+        background-image: url(../img/service-icon/icon-graph@2x.png);
+    }
+    
+    .services__icon_computer::before {
+        background-image: url(../img/service-icon/icon-computer@2x.png);
+    }
+    
+    .services__icon_book::before {
+        background-image: url(../img/service-icon/icon-book@2x.png);
+    }
+    
+    .services__icon_home::before {
+        background-image: url(../img/service-icon/icon-home@2x.png);
+    }
+    
+    .services__icon_digital::before {
+        background-image: url(../img/service-icon/icon-digital@2x.png);
+    }
+}
